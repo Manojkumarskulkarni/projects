@@ -1,4 +1,6 @@
+// Linked list insertion opertions
 // c program to make  all insertion  operations on linked list
+
 
 #include <stdio.h>
 #include<malloc.h>
